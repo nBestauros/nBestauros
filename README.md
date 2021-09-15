@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nBestauros
 - 👀 I’m interested in web development and AI.
-- 🌱 I’m currently learning Full Stack web development through [TheOdinProject](https://www.theodinproject.com/).
+- 🌱 I’m currently learning Full Stack web development through [TheOdinProject](https://www.theodinproject.com/) and am studying Computer Engineering at The University of Washington.
 - 💞️ I’m looking to collaborate on hackathons, student-led projects, or internship opportunities.
 - 📫 You can reach me at nbestauros@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nicholas-bestauros/).
 
