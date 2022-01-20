@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nBestauros
-- 👀 I’m interested in web development, AI, and hardware engineering.
-- 🌱 I’m currently learning Full Stack web development through [TheOdinProject](https://www.theodinproject.com/) and am studying Computer Engineering at The University of Washington.
+- 👀 I’m interested in app development, AI, and hardware engineering.
+- 🌱 I’m currently developing an android app for a salmon research effort. [SalmonWatchers](https://jsjensenblog.wordpress.com/blog/north-lake-washington-salmon-sightings/)
+- 💻 I’m studying Computer Engineering at The University of Washington.
 - 💞️ I’m looking to collaborate on hackathons, student-led projects, or internship opportunities.
 - 📫 You can reach me at nbestauros@gmail.com or on [LinkedIn](https://www.linkedin.com/in/nicholas-bestauros/).
 
